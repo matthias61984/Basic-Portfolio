@@ -1,0 +1,39 @@
+* {
+    border: 1px solid red
+}
+
+header {
+    width: 960px;
+    height: 120px;
+    margin: 0 auto;
+    background: #ffffff;
+}
+
+h1 {
+    float: left;
+    width: 30%
+}
+
+nav {
+    float: left;
+    width: 70%;
+    text-align: right
+}
+
+h2 {
+    width: 100%;
+}
+
+img {
+    float: left
+}
+
+p {
+
+}
+
+#main {
+    clear: both;
+    width: 960px;
+    margin: 0 auto
+}
